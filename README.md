@@ -22,11 +22,6 @@ Bem-vindo ao repositório "Curso de Lógica de Programação com Unity Engine em
 
 - Fundamentos da Lógica de Programação
 - Estruturas de Controle de Fluxo
-- Funções e Procedimentos
-- Trabalhando com Arrays e Coleções
-- Introdução à Orientação a Objetos em C#
-- Manipulação de Objetos na Unity Engine
-- Eventos e Delegados em C#
 - Boas Práticas de Programação e Otimização de Código
 
 **Como Começar:**
