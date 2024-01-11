@@ -43,7 +43,7 @@ public class CubeBehaviour : MonoBehaviour
         }
 
         // Exemplo de operadores aritméticos e lógicos
-        int numero = 15;
+        numero = 15;
 
         if (numero % 2 == 0 && numero > 10)
         {
