@@ -1,4 +1,6 @@
-**Nome do Repositório: Curso de Lógica de Programação com Unity Engine em C#**
+**Curso de Lógica de Programação com Unity Engine em C#**
+
+**Playlist do Curso:** https://www.youtube.com/watch?v=TfBbZf61AMQ&list=PLznBsBPsRxB4JCqwWaLk7N9bT8wxdvDpn
 
 **Descrição:**
 
